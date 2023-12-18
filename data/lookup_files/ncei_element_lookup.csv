@@ -1,0 +1,60 @@
+﻿item,definition
+WT04,"Ice pellets, sleet, snow pellets, or small hail"
+WT09,Blowing or drifting snow
+WT07,"Dust, volcanic ash, blowing dust, blowing sand, or blowing obstruction"
+WT03,Thunder
+WT16,"Rain (may include freezing rain, drizzle, and freezing drizzle)"
+WT18,"Snow, snow pellets, snow grains, or ice crystals"
+WT06,Glaze or rime
+WT05,Hail (may include small hail)
+WT14,Drizzle
+WT15,Freezing drizzle
+WT17,Freezing rain
+WT01,"Fog, ice fog, or freezing fog (may include heavy fog)"
+WT08,Smoke or haze
+WT19,Unknown source of precipitation
+WT02,Heavy fog or heaving freezing fog (not always distinquished from fog)
+WT13,Mist
+WT22,Ice fog or freezing fog
+WT11,High or damaging winds
+WT21,Ground fog
+WESD,Water equivalent of snow on the ground (tenths of mm)
+FMTM,Time of fastest mile or fastest 1-minute wind
+TOBS,Temperature at the time of observation (tenths of degrees C)
+SNOW,Snowfall (mm)
+SNWD,Snow depth (mm)
+PRCP,Precipitation (tenths of mm)
+WSFG,Peak gust wind speed (tenths of meters per second)
+PGTM,"Peak gust time (hours and minutes, i.e., HHMM)"
+DAWM,Number of days included in the multiday wind movement
+DASF,Number of days included in the multiday snowfall
+DAEV,Number of days included in the multiday evaporation
+MDWM,Multiday wind movement (km)
+MDSF,Multiday snowfall total
+MDEV,Multiday evaporation total (tenths of mm; use with DAEV)
+TMIN,Minimum temperature (tenths of degrees C)
+RHMN,Minimum relative humidity for the day (percent)
+TMAX,Maximum temperature (tenths of degrees C)
+RHMX,Maximum relative humidity for the day (percent)
+WSFM,Fastest mile wind speed (tenths of meters per second)
+WDFM,Fastest mile wind direction (degrees)
+WSF5,Fastest 5-second wind speed (tenths of meters per second)
+WSF2,Fastest 2-minute wind speed (tenths of meters per second)
+WSF1,Fastest 1-minute wind speed (tenths of meters per second)
+EVAP,Evaporation of water from evaporation pan (tenths of mm)
+WDFG,Direction of peak wind gust (degrees)
+WDF5,Direction of fastest 5-second wind (degrees)
+WDF2,Direction of fastest 2-minute wind (degrees)
+WDF1,Direction of fastest 1-minute wind (degrees)
+TSUN,Daily total sunshine (minutes)
+PSUN,Daily percent of possible sunshine (percent)
+AWBT,Average Wet Bulb Temperature for the day (tenths of degrees C)
+ASTP,Average Station Level Pressure for the day (hPa * 10)
+ASLP,Average Sea Level Pressure for the day (hPa * 10)
+RHAV,Average relative humidity for the day (percent)
+ADPT,Average Dew Point Temperature for the day (tenths of degrees C)
+AWND,Average daily wind speed (tenths of meters per second)
+TAVG,Average daily temperature (tenths of degrees C)
+ACSH,Average cloudiness sunrise to sunset from manual
+ACMH,Average cloudiness midnight to midnight from
+WDMV,24-hour wind movement (km)
